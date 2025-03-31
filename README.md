@@ -20,4 +20,4 @@ Implemented using **PySpark** to handle large-scale data in a distributed and pa
 
 You can run this notebook directly on [Google Colab](https://colab.research.google.com/) by clicking the badge below:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lorispalmarin/marketbasket_PL/blob/main/main.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lorispalmarin/marketbasket_PL/blob/main/main.ipynb?raw=true)
